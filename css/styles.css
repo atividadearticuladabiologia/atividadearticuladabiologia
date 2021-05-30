@@ -83,18 +83,18 @@ button:hover {
     text-align: justify;
     padding-left: 15px;
     padding-right: 15px;
- 
+
 }
 
-#corpopng{
- width: 20%;
- height: 40%;
- position: absolute;
- padding-top: 55px;
- padding-left: 50px;
+#corpopng {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    padding-top: 55px;
+    padding-left: 50px;
 }
 
-#corpopng2{
+#corpopng2 {
     position: absolute;
     width: 20%;
     height: 40%;
@@ -107,6 +107,13 @@ button:hover {
     width: 20%;
     height: 90%;
     padding-top: 500px;
-    
+
 }
 
+#foot {
+    display: block;
+    text-align: center;
+    padding-top: 45%;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
