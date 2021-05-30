@@ -1,0 +1,112 @@
+body {}
+
+#menu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border: solid white 2px;
+    background-color: #5397e0;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
+
+#titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#tema {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#resumo {
+    width: 630px;
+    height: auto;
+    background-color: #f4f2f5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px dashed #5397e0;
+    border-radius: 19px;
+}
+
+#trabalho {
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    font-size: 28px;
+}
+
+#contflyer {
+    display: none;
+}
+
+#contmaquete {
+    display: none;
+}
+
+#contmateria {
+    display: none;
+}
+
+#conttexto {
+    display: none;
+}
+
+#contvideo {
+    display: none;
+}
+
+#proposta {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+#descriproposta {
+    font-family: 'Inter', sans-serif;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+ 
+}
+
+#corpopng{
+ width: 20%;
+ height: 40%;
+ position: absolute;
+ padding-top: 55px;
+ padding-left: 50px;
+}
+
+#corpopng2{
+    position: absolute;
+    width: 20%;
+    height: 40%;
+    padding-left: 1050px;
+    padding-top: 200px;
+}
+
+#corpopng3 {
+    position: absolute;
+    width: 20%;
+    height: 90%;
+    padding-top: 420px;
+    
+}
+
