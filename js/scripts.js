@@ -3,7 +3,7 @@ var contflyer = document.getElementById("contflyer");
 var contmateria = document.getElementById("contmateria");
 var conttexto = document.getElementById("conttexto");
 var contvideo = document.getElementById("contvideo");
-
+var contcredito = document.getElementById("contcred");
 
 
 contflyer.style.display = 'none';
@@ -11,6 +11,7 @@ contmaquete.style.display = 'none';
 contmateria.style.display = 'none';
 conttexto.style.display = 'none';
 contvideo.style.display = 'none';
+contcredito.style.display = 'none';
 
 function mostraflyer() {
     if (contflyer.style.display == 'none') {
@@ -55,4 +56,12 @@ function mostravideo() {
         contvideo.style.display = 'none';
     }
 
+}
+
+function mostracredito() {
+    if (contcredito.style.display=='none'){
+        contcredito.style.display='block';
+    } else {
+        contcredito.style.display ='none';
+    }
 }
