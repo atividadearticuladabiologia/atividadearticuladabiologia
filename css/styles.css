@@ -113,7 +113,55 @@ button:hover {
 #foot {
     display: block;
     text-align: center;
-    padding-top: 45%;
+    padding-top: 35%;
     font-family: 'Poppins';
     font-weight: 600;
+    
+}
+
+.cont {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#foto_sistema_esquelético{
+    width: 40%;
+    height: 40%;
+}
+
+.titulo_sistemas{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 35px;
+}
+
+#render_esque{
+    width: 70%;
+    height: 70%;
+}
+
+.subtitulo_sistemas{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#foto1diges{
+    width: 100%;
+    height: 100%;
+}
+
+#foto2diges{
+    width: 100%;
+    height: 100%;
+    padding-left: 7px;
+    padding-top: 1px;
+}
+
+#texto{
+    text-align: left;
+    padding-left: 5px;
+    font-family: 'Poppins';
 }
